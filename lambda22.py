@@ -2,5 +2,5 @@ import json
 
 def lambda_handler(event, context):
     return {
-      'body': json.dumps('Hello World!')
+      'body': json.dumps('Hello netra!')
     }
